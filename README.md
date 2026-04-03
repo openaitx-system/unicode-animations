@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=gunnargray-dev&project=unicode-animations&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # unicode-animations
 
 Unicode spinner animations as raw frame data — no dependencies, works everywhere.
